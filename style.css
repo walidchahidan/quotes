@@ -1,0 +1,30 @@
+
+body{
+    background-image: url("./brown-wooden-flooring.jpg");
+    background-size: cover;
+}
+div{
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    background-color: rgba(122, 87, 11, 0.685);
+    font-family: Raleway;
+    color: white;
+    padding: 40px 10px;
+    border-radius: 20px;
+    margin-top: 110px;
+    box-shadow: 10px 10px 10px rgb(12, 12, 12);
+}
+#quote{
+    margin-bottom: 40px;
+    font-size: 2em;
+}
+#auth{
+    color: gainsboro;
+}
+#btn{
+    padding: 15px;
+    background-color: brown;
+    border-radius: 20px;
+    margin-top: 20px;
+}
